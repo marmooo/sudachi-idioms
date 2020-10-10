@@ -11,7 +11,7 @@ node build.js
 ```
 
 ## License
-MIT
+Apache-2.0
 
 ## References
 - [苗字由来net](https://myoji-yurai.net/)
@@ -19,5 +19,5 @@ MIT
 - [MosasoM/inappropriate-words-ja](https://github.com/MosasoM/inappropriate-words-ja)
 
 ## Attribution
-- [SudachiDict](https://github.com/WorksApplications/SudachiDict) is licensed under the [Apache License, Version2.0](http://www.apache.org/licenses/LICENSE-2.0).
+- [SudachiDict](https://github.com/WorksApplications/SudachiDict) is licensed under the [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
